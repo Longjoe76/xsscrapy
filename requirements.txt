@@ -2,7 +2,7 @@ scrapy
 pybloomfilter
 requests
 bs4
-twisted==16.6.0
+twisted==24.7.0
 w3lib
 lxml
 six
